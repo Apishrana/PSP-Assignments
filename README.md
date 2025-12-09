@@ -19,6 +19,9 @@
 ### Project 06
 
 Input format
+`[[name, answers],[name, answers]]`
+
+Sample Input
 
 ```python
 [["John", ['A', 'B', 'B', 'C', 'D']],["Jane", ['A', 'A', 'A', 'A', 'A']],["Bob",  ['B', 'B', 'A', 'D', 'D']]]
