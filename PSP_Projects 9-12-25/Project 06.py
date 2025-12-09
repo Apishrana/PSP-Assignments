@@ -2,7 +2,6 @@ key = ['A', 'B', 'A', 'C', 'D']
 
 students = eval(input("Enter student data as a list of [name, answers] pairs: "))
 
-
 for student in students:
 
     name = student[0]

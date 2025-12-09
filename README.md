@@ -2,7 +2,7 @@
 
 ## PSP Projects (9/12/25)
 
-[Go to Directory](<PSP_Projects(9:12:25)/>)
+[Go to Directory](<PSP_Projects 9-12-25/>)
 
 [Reference Document](https://docs.google.com/document/d/e/2PACX-1vSEZUeG7nj0EjalLtUVnFMWMxoCLyhMiT17WAhUJEsewQ6Bpewp83jAc5wy5QHgY91DRMgwdTMmfxeZ/pub)
 
